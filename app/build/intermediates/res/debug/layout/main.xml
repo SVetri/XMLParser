@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/additembtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add node"/>
+
+    <ListView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/listview"
+        android:cacheColorHint="@android:color/transparent"
+        android:dividerHeight="2dp"
+        />
+
+</LinearLayout><!-- From: file:/C:/Users/S/Desktop/XmlParsing-master/XmlParsing-master/app/src/main/res/layout/main.xml -->

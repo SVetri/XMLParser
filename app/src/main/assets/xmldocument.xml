@@ -1,0 +1,32 @@
+<main>
+	<student>
+		<name> Tofeeq Ahmad</name>
+		<address> 142, Karol Bag, Delhi </address>
+		<qua> MCA</qua>
+	</student>
+	<student>
+		<name> Sameer Ahmad</name>
+		<address> 142, Karol Bag,New  Delhi </address>
+		<qua> BCA </qua>
+	</student>
+	<student>
+		<name> Adams Cinclear</name>
+		<address>123, Street Road Las Vegas </address>
+		<qua> B Tech</qua>
+	</student>
+	<student>
+		<name> Mike Hussy</name>
+		<address> Sydney Australia </address>
+		<qua> B.Com </qua>
+	</student>
+	<student>
+		<name> Sameer Ahmad</name>
+		<address> 142, Karol Bag,New  Delhi </address>
+		<qua> BCA </qua>
+	</student>
+	<student>
+		<name> Kushal Pal Singh</name>
+		<address> 142, Karol Bag,New  Delhi </address>
+		<qua> M Tech </qua>
+	</student>
+</main>
